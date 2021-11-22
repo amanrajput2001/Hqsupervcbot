@@ -168,7 +168,7 @@ class TGCalls {
     if (data.provider === 'youtube') {
       let response = (
         await axios.get<Ytmp3>(
-          'https://apis.amanrajput.me/ytmp3?id=' + data.mp3_link
+          'https://apis.arnabxd.me.me/ytmp3?id=' + data.mp3_link
         )
       ).data;
 
