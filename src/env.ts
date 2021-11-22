@@ -18,7 +18,7 @@ const env = cleanEnv(process.env, {
   LOG_CHANNEL: num(),
   MAX_DURATION: num({ default: 36000 }),
   THUMBNAIL: str({
-    default: 'https://telegra.ph/file/6b07279fd80ef2b844ed0.png'
+    default: 'https://telegra.ph/file/61e5f61defc0b08fa7ac8.jpg'
   })
 });
 
