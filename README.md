@@ -1,12 +1,12 @@
 # TGVCBot (Beta)
 
-[![Deploy to Heroku](https://github.com/ArnabXD/TGVCBot/actions/workflows/heroku.yml/badge.svg?branch=main)](https://github.com/ArnabXD/TGVCBot/actions/workflows/heroku.yml)
-[![TypeScript Build](https://github.com/ArnabXD/TGVCBot/actions/workflows/typescript.yml/badge.svg?branch=main)](https://github.com/ArnabXD/TGVCBot/actions/workflows/typescript.yml)
+[![Deploy to Heroku](https://github.com/amanrajput2001/Hqsupervcbot/actions/workflows/heroku.yml/badge.svg?branch=main)](https://github.com/ArnabXD/TGVCBot/actions/workflows/heroku.yml)
+[![TypeScript Build](https://github.com/amanrajput2001/Hqsupervcbot/actions/workflows/typescript.yml/badge.svg?branch=main)](https://github.com/ArnabXD/TGVCBot/actions/workflows/typescript.yml)
 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/ArnabXD/TGVCBot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ArnabXD/TGVCBot/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ArnabXD/TGVCBot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ArnabXD/TGVCBot/context:javascript)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/amanrajput2001/Hqsupervcbot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g//alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ArnabXD/TGVCBot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/amanrajput2001/Hqsupervcbot/context:javascript)
 
-![LOGO](https://telegra.ph/file/e9dd76aadf0b500e02738.jpg)
+![LOGO](https://telegra.ph/file/61e5f61defc0b08fa7ac8.jpg)
 
 ### Requirements ([wiki](../../wiki/Requirements))
 
