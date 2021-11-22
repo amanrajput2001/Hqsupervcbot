@@ -1,10 +1,10 @@
 {
-  "name": "@ArnabXD/TGVCBot",
+  "name": "@amanrajput2001/Hqsupervcbot",
   "description": "Telegram Bot to Play Music in Voice Chat",
   "keywords": ["telegram", "vc", "music"],
-  "repository": "https://github.com/ArnabXD/TGVCBot",
-  "logo": "https://telegra.ph/file/dd7933d25477c161b7d52.png",
-  "success_url": "https://telegram.dog/xdbots",
+  "repository": "https://github.com/amanrajput2001/Hqsupervcbot",
+  "logo": "https://telegra.ph/file/61e5f61defc0b08fa7ac8.jpg",
+  "success_url": "https://telegram.aman/india_chat_002",
   "env": {
     "API_ID": {
       "description": "Get API_ID from https://my.telegram.org/apps.",
